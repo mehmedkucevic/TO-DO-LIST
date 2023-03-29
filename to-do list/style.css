@@ -40,12 +40,13 @@ form {
 }
 
 .todo-text {
+  margin-left: 36%;
+  margin-right: 10px;
   width: 70%;
   max-width: 500px;
   padding: 10px;
   border: none;
   border-radius: 10px;
-  margin-right: 10px;
   font-size: 18px;
   background-color: #3a323f;
   color: #ffffff;
@@ -88,7 +89,6 @@ form {
 
 .lista {
   border-radius: 10px;
-
   border: none;
   background-color: #3a323f;
   color: #ffffff;
